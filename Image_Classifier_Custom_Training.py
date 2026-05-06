@@ -180,7 +180,7 @@ class ModernClassifierApp(tk.Tk):
 
     def __init__(self):
         super().__init__()
-        self.title("Custom Image Classifier")
+        self.title("Custom Image Classifier created by JP")
         self.geometry("1080x800")
         self.minsize(960, 640)
 
