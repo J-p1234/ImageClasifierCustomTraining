@@ -1,3 +1,4 @@
+<img width="1076" height="822" alt="Custom Image Classifier created" src="https://github.com/user-attachments/assets/7237be4f-1222-48f1-8cb0-1267e3f111a1" />
 🧠 Custom Image Classifier (Tkinter + PyTorch)
 
 A modern desktop application for training and using your own image classification model — no advanced ML experience required.
@@ -96,3 +97,8 @@ Use varied lighting & angles
 👨‍💻 Author
 
 Created by JP
+
+<img width="1076" height="822" alt="Custom Image Classifier created" src="https://github.com/user-attachments/assets/6a414f31-fd1b-4b08-a184-5bcbc7e4641a" />
+
+
+
